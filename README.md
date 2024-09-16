@@ -11,7 +11,7 @@ Tenho experiência com diversas linguagens de programação e estou sempre busca
 
 ## 📈 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JPBG-USP&show_icons=true&theme=radical)
 
 ## 🔗 Links
 
