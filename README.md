@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou João Pedro 👋
 
-<!--
-**JPBG-USP/JPBG-USP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, estou cursando Engenharia Mecatrônica na Escola de Engenharia de São Carlos (EESC-USP). Sou apaixonado por tecnologia e tenho um grande interesse em robótica e inteligência artificial. 
 
-Here are some ideas to get you started:
+Tenho experiência com diversas linguagens de programação e estou sempre buscando aprender novas tecnologias e ferramentas. No momento, estou focado em projetos relacionados a robótica e aprendizado de máquina.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Destaques
+
+- 🚀 **Grupo SEMEAR**: Participo deste grupo extracurricular, onde desenvolvemos projetos em robótica.
+- 🤖 **Laboratório de Robótica Móvel (LabRom)**: Realizo pesquisas sobre *Deep Reinforcement Learning (DRL)* em robôs quadrúpedes, explorando novas possibilidades para aplicações de IA em robótica.
+
+## 📈 Estatísticas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+
+## 🔗 Links
+
+- [LinkedIn](https://br.linkedin.com/in/jo%C3%A3o-pedro-baltieca-garcia-573b15242)
