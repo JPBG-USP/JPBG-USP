@@ -6,7 +6,7 @@ Tenho experiência com diversas linguagens de programação e estou sempre busca
 
 ## 🌟 Destaques
 
-- 🚀 **Grupo SEMEAR**: Participo deste grupo extracurricular, onde desenvolvemos projetos em robótica.
+- 🚀 **Grupo SEMEAR**: Participei deste grupo extracurricular, onde pude desenvolver projetos em robótica.
 - 🤖 **Laboratório de Robótica Móvel (LabRom)**: Realizo pesquisas sobre *Deep Reinforcement Learning (DRL)* em robôs quadrúpedes, explorando novas possibilidades para aplicações de IA em robótica.
 
 ## 📈 Estatísticas
