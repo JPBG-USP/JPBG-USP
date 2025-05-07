@@ -1,15 +1,15 @@
-# Olá, eu sou João Pedro 👋
+# Hi, I'm João Pedro 👋
 
-Atualmente, estou cursando Engenharia Mecatrônica na Escola de Engenharia de São Carlos (EESC-USP). Sou apaixonado por tecnologia e tenho um grande interesse em robótica e inteligência artificial. 
+I'm currently pursuing a degree in Mechatronics Engineering at the São Carlos School of Engineering (EESC-USP). I'm passionate about technology, with a strong interest in robotics and artificial intelligence.
 
-Tenho experiência com diversas linguagens de programação e estou sempre buscando aprender novas tecnologias e ferramentas. No momento, estou focado em projetos relacionados a robótica e aprendizado de máquina.
+I have experience with various programming languages and am always eager to learn new technologies and tools. My current focus is on projects related to robotics and machine learning, where I aim to push the boundaries of innovation.
 
-## 🌟 Destaques
+## 🌟 Highlights
 
-- 🚀 **Grupo SEMEAR**: Participei deste grupo extracurricular, onde pude desenvolver projetos em robótica.
-- 🤖 **Laboratório de Robótica Móvel (LabRom)**: Realizo pesquisas sobre *Deep Reinforcement Learning (DRL)* em robôs quadrúpedes, explorando novas possibilidades para aplicações de IA em robótica.
+🚀 SEMEAR Group: Participated in this extracurricular group, working on hands-on robotics projects that enhanced my technical and teamwork skills.
+🤖 Mobile Robotics Laboratory (LabRom): Conducting research on Deep Reinforcement Learning (DRL) for quadruped robots, exploring cutting-edge applications of AI in robotics.
 
-## 📈 Estatísticas
+## 📈 Stats
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JPBG-USP&show_icons=true&theme=radical)
 
