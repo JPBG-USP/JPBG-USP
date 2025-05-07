@@ -7,6 +7,7 @@ I have experience with various programming languages and am always eager to lear
 ## 🌟 Highlights
 
 🚀 SEMEAR Group: Participated in this extracurricular group, working on hands-on robotics projects that enhanced my technical and teamwork skills.
+
 🤖 Mobile Robotics Laboratory (LabRom): Conducting research on Deep Reinforcement Learning (DRL) for quadruped robots, exploring cutting-edge applications of AI in robotics.
 
 ## 📈 Stats
